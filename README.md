@@ -1,13 +1,13 @@
 <h1 align="center">
-Hi, I'm Berk Demircioglu!
-	<a href="https://github.com/berkdemirciogluu" target="_self">
+Hi, I'm Beste Ceren Demircioglu!
+	<a href="https://github.com/bcdemircioglu" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <br/>
 <p align="center">
-	<a href="https://github.com/berkdemirciogluu">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;.NET+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	<a href="https://github.com/bcdemircioglu">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -16,11 +16,9 @@ Hi, I'm Berk Demircioglu!
 <pre>
 💻 I am a self taught Software Developer and a Machine Learning Developer
 
-📚 I have a Master Degree in Civil Engineering from Middle East Technical University (METU)
-
 📝 I have a strong interest in Software Development and Data Science
 
-🌟 Main languages: C#, Python
+🌟 Main languages: Javascript, Python
 
 🤝 I’m available for freelancing.
 </pre>
@@ -32,14 +30,12 @@ Hi, I'm Berk Demircioglu!
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/berkdemirciogluu/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/beste-ceren-demircio%C4%9Flu-5a516613a/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/berkdemirciogluu">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/bcdemircioglu">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:berk.demircioglu1994@gmail.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:bilen.besteceren@gmail.com">
 		<img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:berkdemircioglu@yahoo.com">
-		<img src="https://img.icons8.com/doodle/40/000000/yahoo--v1.png"></a>
       </div>
 
 </p>
@@ -57,19 +53,3 @@ Hi, I'm Berk Demircioglu!
 <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="60" height="60"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="60" height="60"/> </a>
 
-
-
-<!--
-**berkdemirciogluu/berkdemirciogluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
